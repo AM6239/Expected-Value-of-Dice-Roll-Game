@@ -1,4 +1,4 @@
-# A simple script to estimate the expected value of taking the max of a three six-sided dice roll, and plot a histogram of the results.
+# A simple script to estimate the expected value of taking the max of a three six-sided dice roll, plotting a histogram of the results.
 
 import random
 import matplotlib.pyplot as plt
